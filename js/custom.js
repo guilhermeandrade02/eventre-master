@@ -36,11 +36,12 @@
         //  Count Down JS
         // -----------------------------
         $('.timer').syotimer({
-            year: 2017,
-            month: 12,
-            day: 9,
-            hour: 20,
-            minute: 30
+            year: 2025,
+            month: 4,
+            day: 1,
+            hour: 14,
+            minute: 0,
+            lang: 'por'  
         });
         // -----------------------------
         // To Top Init
